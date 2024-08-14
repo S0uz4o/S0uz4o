@@ -101,3 +101,5 @@ $ git commit -m "breve descricao"
 (abre um terminal dentro do VScode)
 </details>
 ------------------------------------------------------------------------------
+
+# pedro
